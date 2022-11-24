@@ -1,1 +1,1 @@
-# git-conflict-example
+Hello World!
